@@ -9,9 +9,11 @@ html,body{
    width:100%;
 }
 #main{
-    width:20%;
-    height: 40%;
-    padding: 30px;
+    width:100%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1663507897721-c6c216a8fb28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+    background-size: cover;
+    background-position: center;
+    
    
-    background-color: darkslategrey;
 }
